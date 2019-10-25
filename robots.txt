@@ -10,4 +10,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://startalk.cc/sitemap.xml
+Sitemap: http://tucaoben.com/sitemap.xml
